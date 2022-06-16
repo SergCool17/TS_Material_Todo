@@ -1,9 +1,6 @@
 Simple TODO
 
-Stack :
-Typescript
-Hooks
-Jest
-Material-UI
+Stack : Typescript, Hooks, Jest, Material-UI
 
-![image](https://user-images.githubusercontent.com/54331706/174033008-e13abed3-6bdc-444f-8ac5-4f5bf78bbd8a.png)
+
+![6jvmzn](https://user-images.githubusercontent.com/54331706/174093163-1926af1f-5a57-490a-97df-843ec6f8ddc6.gif)
